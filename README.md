@@ -156,4 +156,4 @@ Contributions are welcome! Please follow these steps:
 6. Open a pull request
 
 
-This README provides a comprehensive overview and guide to setting up, running, and testing the FashionApp with WebdriverIO. Feel free to modify it as per your project requirements.
+This README provides a comprehensive overview and guide to setting up, running, and testing the FashionApp with WebdriverIO.
